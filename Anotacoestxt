@@ -1,0 +1,8 @@
+#python -m venv env-env
+#env-env\Scripts\activate
+
+#Instalando
+# PyAutoGUI é um módulo Python de automação de GUI multiplataforma 
+# para seres humanos. Usado para controlar programaticamente o mouse 
+# e o teclado.
+#pip install PyAutoGUI
