@@ -6,3 +6,9 @@
 # para seres humanos. Usado para controlar programaticamente o mouse 
 # e o teclado.
 #pip install PyAutoGUI
+# pip install mouseinfo
+# Fiz isso no cmd
+# env-env\Scripts\activate
+# python
+# from mouseinfo import mouseInfo
+# mouseInfo()
