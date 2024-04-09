@@ -5,10 +5,21 @@
 # PyAutoGUI é um módulo Python de automação de GUI multiplataforma 
 # para seres humanos. Usado para controlar programaticamente o mouse 
 # e o teclado.
-#pip install PyAutoGUI
+# pip install PyAutoGUI
+
 # pip install mouseinfo
 # Fiz isso no cmd
 # env-env\Scripts\activate
 # python
 # from mouseinfo import mouseInfo
 # mouseInfo()
+
+# pip install selenium
+# Aí você vai no seu navegador do google
+# opção ajuda e ver a versão do seu google
+# Depois vá até https://chromedriver.chromium.org/downloads
+# baixe o da versão do seu google chrome
+# coloque o executável dentro da pasta onde está seu código
+
+
+# pip install XlsxWriter
