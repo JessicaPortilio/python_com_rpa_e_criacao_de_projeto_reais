@@ -23,3 +23,14 @@
 
 
 # pip install XlsxWriter
+
+# pip install openpyxl
+
+
+# Para criar um executável 
+
+# pip install pyinstaller
+
+# pyinstaller --onefile -w salvando_todos_as_buscas_ceps_no_excel.py
+
+# OBS: -w se tiver interação com usuário tipo uma tela que ele precisa fazer algo, caso contrário não precisa
