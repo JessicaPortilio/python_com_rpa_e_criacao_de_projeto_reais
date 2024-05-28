@@ -9,3 +9,4 @@ venv.bak/
 env-env
 .env-env
 env-env/
+chromedriver.exe
